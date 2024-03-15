@@ -20,6 +20,7 @@ public class Date {
   private final int month;
   private final int year;
 
+  private boolean isHoliday;
   /**
    * Retrieves the day component of this date.
    *
